@@ -1,5 +1,5 @@
-# hello-world
-### GitHub Guide repository
+# "Hello World!"
+## My learning path diary
 
 Hi! My name is Michel. At first I wrote this README as part of the GitHub tutorial, but now I use it as a place to keep track of my learning path. 
 
